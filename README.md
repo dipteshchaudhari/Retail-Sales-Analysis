@@ -15,7 +15,7 @@
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: First We Created a Database.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
@@ -218,3 +218,4 @@ GROUP BY 1
 ## Conclusion
 
 project for basics of SQL for data analysis. It includes database setup, data cleaning, EDA, and business SQL queries. The insights from this project help understand sales patterns, how customers behave, and how products perform, which can support business decisions.
+
