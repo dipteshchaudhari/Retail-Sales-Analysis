@@ -219,3 +219,5 @@ GROUP BY 1
 
 project for basics of SQL for data analysis. It includes database setup, data cleaning, EDA, and business SQL queries. The insights from this project help understand sales patterns, how customers behave, and how products perform, which can support business decisions.
 
+
+MADE BY **DIPTESH CHAUDHARY**
