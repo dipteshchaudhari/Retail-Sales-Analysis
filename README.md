@@ -15,7 +15,7 @@
 
 ### 1. Database Setup
 
-- **Database Creation**: First We Created a Database.
+- **Database Creation**: First I Created a Database.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
@@ -221,3 +221,4 @@ project for basics of SQL for data analysis. It includes database setup, data cl
 
 
 MADE BY **DIPTESH CHAUDHARY**
+
